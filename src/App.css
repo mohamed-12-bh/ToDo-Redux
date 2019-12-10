@@ -1,0 +1,46 @@
+.formulaire {
+  background-color: gray;
+  padding: 30px;
+}
+h1 {
+  text-align: center;
+  color: white;
+  font-size: 60px;
+}
+h2 {
+  text-align: center;
+  color: white;
+  margin-left: 700px;
+  font-style: oblique;
+}
+.myinput {
+  width: 40%;
+  margin-left: 400px;
+}
+.mybutton {
+  background-color: green;
+  color: white;
+  margin-left: 30px;
+  margin-top: -200px;
+  height: 40px;
+}
+.tasks {
+  display: flex;
+  margin-top:20px;
+  margin-left: 450px;
+}
+.btn-task {
+  background-color: darkslateblue;
+  font-size: 20px;
+  color: white;
+}
+p {
+  
+  font-size: 25px;
+}
+.checked {
+  text-decoration: line-through;
+}
+.btn-add{
+  height: 35px;
+}
